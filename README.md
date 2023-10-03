@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mir Ubair and I'm a Software developer, from Kashmir.</h2>
+<h2 align="left">Hi 👋! My name is Mir Ubair <br> And I'm a Software developer, from Kashmir.</h2>
 
 ###
 

@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/ubair-ahmad-mir-04148a233/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://mir-ubair-portfolio.web.app/" target="_blank">
+  <a href="https://mirubair-f6bf1.web.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My Portfolio&logo=tryhackme&label=&color=88cc11&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
   </a>
 </div>
